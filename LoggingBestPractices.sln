@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingBestPractices.Benchmarks", "LoggingBestPractices.Benchmarks\LoggingBestPractices.Benchmarks.csproj", "{1B16FDF4-87E7-411A-8E43-073411AFE30D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingBestPractices.Api", "LoggingBestPractices.Api\LoggingBestPractices.Api.csproj", "{BEF5FA6C-CD96-47B5-9A13-B81AAFCBCEEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingBestPractices.DefaultLogging", "LoggingBestPractices.DefaultLogging\LoggingBestPractices.DefaultLogging.csproj", "{A9D03A0D-A59B-41F5-AD3F-EE3D948E9447}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B16FDF4-87E7-411A-8E43-073411AFE30D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B16FDF4-87E7-411A-8E43-073411AFE30D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B16FDF4-87E7-411A-8E43-073411AFE30D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B16FDF4-87E7-411A-8E43-073411AFE30D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEF5FA6C-CD96-47B5-9A13-B81AAFCBCEEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF5FA6C-CD96-47B5-9A13-B81AAFCBCEEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF5FA6C-CD96-47B5-9A13-B81AAFCBCEEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF5FA6C-CD96-47B5-9A13-B81AAFCBCEEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9D03A0D-A59B-41F5-AD3F-EE3D948E9447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D03A0D-A59B-41F5-AD3F-EE3D948E9447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D03A0D-A59B-41F5-AD3F-EE3D948E9447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9D03A0D-A59B-41F5-AD3F-EE3D948E9447}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
